@@ -110,7 +110,6 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border: 2px solid black;
 }
 
 .main1 .box1 {
@@ -293,7 +292,6 @@
     .main1 .box1 {
         width: 45%;
         height: 100%;
-        border: 2px solid black;
     }
 
     .main1 .box1 .box1-main {
